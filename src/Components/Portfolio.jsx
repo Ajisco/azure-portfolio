@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "CarBot: AI-Powered Vehicle Diagnostic Assistant",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An innovative AI-driven application designed to assist with vehicle diagnostics. It combines Computer Vision and Natural Language Processing (NLP) technologies to interpret car dashboard warning lights and provide diagnoses and potential solutions through user-friendly chats and image analysis.",
+    url: "https://github.com/Ajisco/CarBot",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Music Therapy for Depression: AI-Driven Solution",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A cutting-edge AI application designed to diagnose depression and recommend music therapy solutions. The app leverages machine learning algorithms to classify the severity of depression based on user input and suggests therapeutic music.",
+    url: "https://github.com/Ajisco/Sami-Depression",
   },
   {
-    title: "My Resume Site",
+    title: "AI-Driven Financial Advisory App for SMEs",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A sophisticated Flask application, leveraging OpenAI's GPT-3.5 Turbo, to offer bespoke financial and business advice, primarily for SMEs and loan-related queries.",
+    url: "https://github.com/Ajisco/ai-finance",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Advert Click: AI-Powered Ad Click Prediction",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "An advanced AI solution aimed at predicting user interactions with online advertisements. It utilizes machine learning algorithms to predict whether a user is likely to click on an ad, thereby enhancing advertising strategies and optimizing ad placements.",
+    url: "https://github.com/Ajisco/Ad-Click",
   },
 ];
 
